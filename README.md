@@ -1,1 +1,1 @@
-自由应用程序# Free-Application-Program
+https://github.com/845929528/Free-Application-Program.wiki.git
