@@ -8,3 +8,4 @@ http://share-shadowsocksr.herokuapp.com/subscribe?valid=1
 https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com
 https://github.com/liesauer/Free-SS-SSR
 https://yzzz.ml/freessr
+https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
